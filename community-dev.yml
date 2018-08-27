@@ -1,3 +1,5 @@
 community:
   ver: 8.0
 testCron: 0/1 * * * * ?
+sms:
+  appkeyCode: biubiubiu
