@@ -3,3 +3,7 @@ community:
 testCron: 0/1 * * * * ?
 sms:
   appkeyCode: 1Ukek8Va6FJOK85dV14ZUjBM6T9G
+mall:
+  state: yes
+  path: http://baidu.com
+  backImage: http://biubiubiu.jpg
