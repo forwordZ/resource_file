@@ -6,4 +6,4 @@ sms:
 mall:
   state: yes
   path: http://baidu.com.cn
-  backImage: http://biubiubiu.jpg
+  backImage: https://aihui.obs.myhwclouds.com/community/mall/mall.png
